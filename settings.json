@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "cinnaya.aternos.me:",
+    "ip": "cinnaya.aternos.me",
     "port": 20706,
     "version": "26.1.2",
     "try-creative": false
